@@ -4,4 +4,4 @@
 
 ## 签到状态
 
-![Baidu Tieba Auto Sign](https://github.com/ductory/tieba_sign/workflows/Tieba%20Sign/badge.svg)
+![Status](https://github.com/ductory/tieba_sign/workflows/Tieba%20Sign/badge.svg)
